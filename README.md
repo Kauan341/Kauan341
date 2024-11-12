@@ -1,5 +1,4 @@
 
-### Olá! Eu sou o Kauan 😄
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauan-de-souza-almeida-43b26628a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ksa_sec/)
@@ -18,4 +17,3 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
-Cursando o 1° semestre de Análise e Desenvolvimento de Sistemas na UNIP. Atualmente em busca de um estágio para aplicar e expandir meus conhecimentos em Desenvolvimento Web. Com grande interesse na área de tecnologia atendo a sugestões de outras áreas.
