@@ -1,6 +1,6 @@
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauan-de-souza-almeida-43b26628a)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauanksa)
 
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauan341&show_icons=true&theme=radical)
